@@ -15,6 +15,7 @@ int main() {
    std::cout << "r --> replace one character\n";
    std::cout << "a --> append\n";
    std::cout << "u --> undo\n";
+   std::cout << "zz --> Center current line on screen (middle of window)\n";
    std::cout << "d --> delete (dw, delete word) | (dd, delete a single line) | (5dd, delete 5 lines)"
            << " | (Hybrid number & command)\n";
    std::cout << "J --> join\n";

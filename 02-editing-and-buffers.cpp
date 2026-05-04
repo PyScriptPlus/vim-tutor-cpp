@@ -65,8 +65,8 @@ int main() {
 
    // Hala mikhaym az line mesal 10 ta 20 ro comment konim
    // Bayad kami regex bazi dar biyarim
-   std::cout << "Example :10,20s/^/\/\// \n"; // g ham niyaz nist bezari
-   // Warning: In code balayi yek warning ham mide be khater regex \/ vali khob.
+   //Dorust chap nemishe: std::cout << "Example :10,20s/^/\/\// \n"; // g ham niyaz nist bezari
+   // Warning: In code balayi va payini yek warning ham midan be khater regex \/ vali khob.
    // In dorust chapesh mikone: code payini
    std::cout << "Example :10,20s/^/\\\/\\\// \n";
 

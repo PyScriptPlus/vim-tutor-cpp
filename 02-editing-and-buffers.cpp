@@ -66,6 +66,7 @@ int main() {
    // Hala mikhaym az line mesal 10 ta 20 ro comment konim
    // Bayad kami regex bazi dar biyarim
    std::cout << "Example :10,20s/^/\/\// \n"; // g ham niyaz nist bezari
+   // Warning: In code balayi yek warning ham mide be khater regex \/ vali khob.
 
    // Part 3:
    // Edit config file ~/.vimrc

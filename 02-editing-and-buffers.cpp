@@ -67,6 +67,8 @@ int main() {
    // Bayad kami regex bazi dar biyarim
    std::cout << "Example :10,20s/^/\/\// \n"; // g ham niyaz nist bezari
    // Warning: In code balayi yek warning ham mide be khater regex \/ vali khob.
+   // In dorust chapesh mikone: code payini
+   std::cout << "Example :10,20s/^/\\\/\\\// \n";
 
    // Part 3:
    // Edit config file ~/.vimrc
